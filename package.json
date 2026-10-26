@@ -1,0 +1,21 @@
+{
+  "name": "inner-seasons-video",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "npm run build:judges && npm run build:tour",
+    "build:judges": "remotion render src/index.tsx JudgesWalkthrough C:/Users/Ronald/.gemini/tmp/innerseasons-media-20260914/competition/innerseasons-judges-110s-1080p.mp4",
+    "build:tour": "remotion render src/index.tsx AppTourWalkthrough C:/Users/Ronald/.gemini/tmp/innerseasons-media-20260914/play-listing/innerseasons-app-tour-55s-portrait.mp4"
+  },
+  "dependencies": {
+    "remotion": "4.0.187",
+    "@remotion/cli": "4.0.187",
+    "@remotion/transitions": "4.0.187",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0"
+  }
+}

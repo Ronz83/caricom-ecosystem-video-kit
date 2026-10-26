@@ -1,0 +1,379 @@
+{
+  "ecosystem-master-infomercial": {
+    "id": "ecosystem-master-infomercial",
+    "title": "CARICOM BUSINESS HUB • BUSINESSES OS • DISPATCH OS • CBPAY",
+    "subtitle": "FROM DIRECTORY DISCOVERY TO LIVE FIELD RADAR & 60/40 POS SETTLEMENT",
+    "masterAudioFile": "ecosystem-assets/ecosystem-master-infomercial-master.wav",
+    "totalSeconds": 95.17,
+    "totalFrames": 2855,
+    "scenes": [
+      {
+        "id": "act-1",
+        "voice": "en-US-ChristopherNeural",
+        "text": "Across the Caribbean, local businesses and field crews lose thousands every month to missed WhatsApp messages, cash leakage, disconnected apps, and unverified income that lenders reject. Now, CARICOM Business Hub, Businesses OS, Dispatch OS, and CBPay connect every step from first customer inquiry to bank-ready settlement.",
+        "audioSeconds": 20.112,
+        "sceneSeconds": 20.56,
+        "durationInFrames": 617,
+        "wavFile": "ecosystem-assets/ecosystem-master-infomercial-act-1.wav"
+      },
+      {
+        "id": "act-2",
+        "voice": "en-US-AriaNeural",
+        "text": "It starts on the CARICOM Business Hub, where customers discover your business and chat live with CARI, your twenty-four-seven AI Receptionist. Every order flows straight into your purchase-scoped Businesses OS workspace—showing only the exact tools you bought, with one-click login credentials and Done-For-You or Self-Serve team setup.",
+        "audioSeconds": 18.984,
+        "sceneSeconds": 19.43,
+        "durationInFrames": 583,
+        "wavFile": "ecosystem-assets/ecosystem-master-infomercial-act-2.wav"
+      },
+      {
+        "id": "act-3",
+        "voice": "en-US-ChristopherNeural",
+        "text": "Once booked, Dispatch OS takes over—one engine powering AutoRescue OS, Delivery OS, FieldTrade OS, Patrol OS, Detailers OS, and Freight OS. Track live five, ten, and fifteen kilometer Mapbox radar rings with real-time GPS arrival times and mobile technician completion.",
+        "audioSeconds": 19.776,
+        "sceneSeconds": 20.23,
+        "durationInFrames": 607,
+        "wavFile": "ecosystem-assets/ecosystem-master-infomercial-act-3.wav"
+      },
+      {
+        "id": "act-4",
+        "voice": "en-US-AriaNeural",
+        "text": "At checkout, customers pay with their CariPass wallet at zero wallet fees. CariSplit POS automatically routes sixty percent to operations and protects forty percent in your profit vault, while building your verified CariProof Income Passport to unlock thirty-two thousand five hundred dollar Credit Union Cap. 317 loans.",
+        "audioSeconds": 19.656,
+        "sceneSeconds": 20.11,
+        "durationInFrames": 604,
+        "wavFile": "ecosystem-assets/ecosystem-master-infomercial-act-4.wav"
+      },
+      {
+        "id": "act-5",
+        "voice": "en-US-ChristopherNeural",
+        "text": "Start in Barbados Dollars, expand country-to-country across Guyana, Jamaica, and Trinidad and Tobago, and settle international orders in US Dollars and British Pounds. Get started on the CARICOM Business Hub and Businesses OS today.",
+        "audioSeconds": 14.352,
+        "sceneSeconds": 14.8,
+        "durationInFrames": 444,
+        "wavFile": "ecosystem-assets/ecosystem-master-infomercial-act-5.wav"
+      }
+    ]
+  },
+  "service-dispatch-master-walkthrough": {
+    "id": "service-dispatch-master-walkthrough",
+    "title": "DISPATCH OS // MASTER ENGINE",
+    "subtitle": "1 ENGINE • 6 INDUSTRY OS • LIVE MAPBOX TACTICAL RADAR",
+    "masterAudioFile": "ecosystem-assets/service-dispatch-master-walkthrough-master.wav",
+    "totalSeconds": 51.23,
+    "totalFrames": 1537,
+    "scenes": [
+      {
+        "id": "act-1",
+        "voice": "en-US-ChristopherNeural",
+        "text": "Running a fleet or field service team across WhatsApp voice notes, blind phone calls, and paper receipts bleeds thousands of dollars in wasted fuel and missed jobs every month.",
+        "audioSeconds": 10.44,
+        "sceneSeconds": 10.89,
+        "durationInFrames": 327,
+        "wavFile": "ecosystem-assets/service-dispatch-master-walkthrough-act-1.wav"
+      },
+      {
+        "id": "act-2",
+        "voice": "en-US-ChristopherNeural",
+        "text": "Meet Dispatch OS—the single-source command engine that powers six dedicated industry operating systems: AutoRescue OS, Delivery OS, FieldTrade OS, Patrol OS, Detailers OS, and Freight OS.",
+        "audioSeconds": 14.04,
+        "sceneSeconds": 14.49,
+        "durationInFrames": 435,
+        "wavFile": "ecosystem-assets/service-dispatch-master-walkthrough-act-2.wav"
+      },
+      {
+        "id": "act-3",
+        "voice": "en-US-ChristopherNeural",
+        "text": "Three live surfaces stay in lockstep: the customer shares a one-tap GPS pin, Central Radar routes the nearest unit across five to fifteen kilometer rings, and your field tech captures photo proof and instant payment.",
+        "audioSeconds": 13.176,
+        "sceneSeconds": 13.63,
+        "durationInFrames": 409,
+        "wavFile": "ecosystem-assets/service-dispatch-master-walkthrough-act-3.wav"
+      },
+      {
+        "id": "act-4",
+        "voice": "en-US-ChristopherNeural",
+        "text": "With one-click client credential issuance and Done-For-You or Self-Serve fleet setup, you can launch your branded dispatch operation in sixty seconds. Open the live Mapbox radar demo right now.",
+        "audioSeconds": 11.736,
+        "sceneSeconds": 12.19,
+        "durationInFrames": 366,
+        "wavFile": "ecosystem-assets/service-dispatch-master-walkthrough-act-4.wav"
+      }
+    ]
+  },
+  "vsl-auto-rescue": {
+    "id": "vsl-auto-rescue",
+    "title": "AUTORESCUE OS // ROADSIDE & TOWING",
+    "subtitle": "24/7 EMERGENCY GPS LOCK • TOW FLEET RADAR • INSTANT CLAIM BILLING",
+    "masterAudioFile": "ecosystem-assets/vsl-auto-rescue-master.wav",
+    "totalSeconds": 41.5,
+    "totalFrames": 1245,
+    "scenes": [
+      {
+        "id": "act-1",
+        "voice": "en-US-GuyNeural",
+        "text": "When a motorist is stranded on the highway, missed calls, vague location descriptions, and blind flatbed routing cost your towing fleet high-margin recovery jobs.",
+        "audioSeconds": 8.544,
+        "sceneSeconds": 8.99,
+        "durationInFrames": 270,
+        "wavFile": "ecosystem-assets/vsl-auto-rescue-act-1.wav"
+      },
+      {
+        "id": "act-2",
+        "voice": "en-US-GuyNeural",
+        "text": "AutoRescue OS turns roadside chaos into precision radar dispatch. Stranded motorists tap one link—with no app download required—to lock their exact highway coordinates and vehicle triage.",
+        "audioSeconds": 11.424,
+        "sceneSeconds": 11.87,
+        "durationInFrames": 357,
+        "wavFile": "ecosystem-assets/vsl-auto-rescue-act-2.wav"
+      },
+      {
+        "id": "act-3",
+        "voice": "en-US-GuyNeural",
+        "text": "Your dispatcher assigns the closest recovery truck on the live Mapbox radar, sends an automated live tracking link, and logs four-corner condition photos before winching.",
+        "audioSeconds": 9.192,
+        "sceneSeconds": 9.64,
+        "durationInFrames": 290,
+        "wavFile": "ecosystem-assets/vsl-auto-rescue-act-3.wav"
+      },
+      {
+        "id": "act-4",
+        "voice": "en-US-GuyNeural",
+        "text": "One extra emergency tow pays for your entire month—with instant roadside card, CariPass wallet, or insurance claim settlement. Launch your AutoRescue OS fleet today.",
+        "audioSeconds": 10.464,
+        "sceneSeconds": 10.91,
+        "durationInFrames": 328,
+        "wavFile": "ecosystem-assets/vsl-auto-rescue-act-4.wav"
+      }
+    ]
+  },
+  "vsl-food-delivery": {
+    "id": "vsl-food-delivery",
+    "title": "DELIVERY OS // FOOD, GROCERY & COURIER",
+    "subtitle": "0% MARKETPLACE COMMISSION • MULTI-DROP RADAR • PHOTO PROOF",
+    "masterAudioFile": "ecosystem-assets/vsl-food-delivery-master.wav",
+    "totalSeconds": 42.87,
+    "totalFrames": 1286,
+    "scenes": [
+      {
+        "id": "act-1",
+        "voice": "en-US-AriaNeural",
+        "text": "Why hand over thirty percent of your hard-earned restaurant, grocery, or retail margin to third-party delivery apps while customers still call asking where their order is?",
+        "audioSeconds": 9.864,
+        "sceneSeconds": 10.31,
+        "durationInFrames": 310,
+        "wavFile": "ecosystem-assets/vsl-food-delivery-act-1.wav"
+      },
+      {
+        "id": "act-2",
+        "voice": "en-US-AriaNeural",
+        "text": "Delivery OS gives you your own commission-free direct ordering and courier dispatch engine—complete with your brand, your riders, and one hundred percent of your customer list.",
+        "audioSeconds": 10.152,
+        "sceneSeconds": 10.6,
+        "durationInFrames": 318,
+        "wavFile": "ecosystem-assets/vsl-food-delivery-act-2.wav"
+      },
+      {
+        "id": "act-3",
+        "voice": "en-US-AriaNeural",
+        "text": "Batch multi-drop routes automatically on the live Mapbox radar, send customers real-time rider tracking links, and capture doorstep photo proof of delivery in one tap.",
+        "audioSeconds": 10.608,
+        "sceneSeconds": 11.06,
+        "durationInFrames": 332,
+        "wavFile": "ecosystem-assets/vsl-food-delivery-act-3.wav"
+      },
+      {
+        "id": "act-4",
+        "voice": "en-US-AriaNeural",
+        "text": "With automatic sixty-forty CariSplit settlement and zero marketplace commissions, one busy weekend pays for your entire month. Launch Delivery OS now.",
+        "audioSeconds": 10.392,
+        "sceneSeconds": 10.84,
+        "durationInFrames": 326,
+        "wavFile": "ecosystem-assets/vsl-food-delivery-act-4.wav"
+      }
+    ]
+  },
+  "vsl-hvac-trades": {
+    "id": "vsl-hvac-trades",
+    "title": "FIELDTRADE OS // HVAC, PLUMBING & ELECTRICAL",
+    "subtitle": "SKILL-MATCHED RADAR DISPATCH • DIAGNOSTIC CHECKLISTS • ON-SITE PAY",
+    "masterAudioFile": "ecosystem-assets/vsl-hvac-trades-master.wav",
+    "totalSeconds": 42.37,
+    "totalFrames": 1271,
+    "scenes": [
+      {
+        "id": "act-1",
+        "voice": "en-US-ChristopherNeural",
+        "text": "Missed emergency leak calls, double-booked service vans, and unpaid paper estimates cost home and commercial trade contractors thousands in lost billable hours every week.",
+        "audioSeconds": 10.08,
+        "sceneSeconds": 10.53,
+        "durationInFrames": 316,
+        "wavFile": "ecosystem-assets/vsl-hvac-trades-act-1.wav"
+      },
+      {
+        "id": "act-2",
+        "voice": "en-US-ChristopherNeural",
+        "text": "FieldTrade OS equips HVAC, plumbing, and electrical teams with live skill-matched radar dispatch, diagnostic photo intake, and digital safety checklists.",
+        "audioSeconds": 10.272,
+        "sceneSeconds": 10.72,
+        "durationInFrames": 322,
+        "wavFile": "ecosystem-assets/vsl-hvac-trades-act-2.wav"
+      },
+      {
+        "id": "act-3",
+        "voice": "en-US-ChristopherNeural",
+        "text": "Route the closest certified technician on the live Mapbox radar, verify parts and voltage checklists on-site, and capture before-and-after repair photos.",
+        "audioSeconds": 9.744,
+        "sceneSeconds": 10.19,
+        "durationInFrames": 306,
+        "wavFile": "ecosystem-assets/vsl-hvac-trades-act-3.wav"
+      },
+      {
+        "id": "act-4",
+        "voice": "en-US-ChristopherNeural",
+        "text": "Convert approved quotes into instant card, CariPass, or invoice settlement before your service van leaves the driveway. Power up your crew with FieldTrade OS today.",
+        "audioSeconds": 10.44,
+        "sceneSeconds": 10.89,
+        "durationInFrames": 327,
+        "wavFile": "ecosystem-assets/vsl-hvac-trades-act-4.wav"
+      }
+    ]
+  },
+  "vsl-security-patrol": {
+    "id": "vsl-security-patrol",
+    "title": "PATROL OS // PRIVATE SECURITY & MOBILE PATROL",
+    "subtitle": "GEOFENCED CHECKPOINTS • LIVE UNIT RADAR • TIMESTAMPED INCIDENT LOGS",
+    "masterAudioFile": "ecosystem-assets/vsl-security-patrol-master.wav",
+    "totalSeconds": 38.6,
+    "totalFrames": 1158,
+    "scenes": [
+      {
+        "id": "act-1",
+        "voice": "en-US-GuyNeural",
+        "text": "Commercial property owners and estates demand verifiable GPS proof that night security rounds and alarm responses actually happened—not handwritten clipboards filled out at the end of a shift.",
+        "audioSeconds": 9.984,
+        "sceneSeconds": 10.43,
+        "durationInFrames": 313,
+        "wavFile": "ecosystem-assets/vsl-security-patrol-act-1.wav"
+      },
+      {
+        "id": "act-2",
+        "voice": "en-US-GuyNeural",
+        "text": "Patrol OS gives security agencies a live Mapbox command center with geofenced checkpoint verification and rapid mobile alarm dispatch.",
+        "audioSeconds": 7.944,
+        "sceneSeconds": 8.39,
+        "durationInFrames": 252,
+        "wavFile": "ecosystem-assets/vsl-security-patrol-act-2.wav"
+      },
+      {
+        "id": "act-3",
+        "voice": "en-US-GuyNeural",
+        "text": "Track every patrol SUV and officer across concentric radar rings, verify checkpoint scans in real time, and seal timestamped photo incident dossiers.",
+        "audioSeconds": 8.688,
+        "sceneSeconds": 9.14,
+        "durationInFrames": 275,
+        "wavFile": "ecosystem-assets/vsl-security-patrol-act-3.wav"
+      },
+      {
+        "id": "act-4",
+        "voice": "en-US-GuyNeural",
+        "text": "Win larger commercial and estate contracts with transparent client verification portals and automated recurring billing. Deploy Patrol OS for your security force now.",
+        "audioSeconds": 10.128,
+        "sceneSeconds": 10.58,
+        "durationInFrames": 318,
+        "wavFile": "ecosystem-assets/vsl-security-patrol-act-4.wav"
+      }
+    ]
+  },
+  "vsl-mobile-detailing": {
+    "id": "vsl-mobile-detailing",
+    "title": "DETAILERS OS // MOBILE AUTO DETAILING & WASH",
+    "subtitle": "ROUTE-CLUSTERED BOOKING • BEFORE/AFTER GALLERY • 1-TAP TIPS & REBOOKING",
+    "masterAudioFile": "ecosystem-assets/vsl-mobile-detailing-master.wav",
+    "totalSeconds": 38.23,
+    "totalFrames": 1147,
+    "scenes": [
+      {
+        "id": "act-1",
+        "voice": "en-US-JennyNeural",
+        "text": "Criss-crossing the island between unclustered appointments and dealing with last-minute cancellations drains your mobile detailing profits before you even start the wash.",
+        "audioSeconds": 8.928,
+        "sceneSeconds": 9.38,
+        "durationInFrames": 282,
+        "wavFile": "ecosystem-assets/vsl-mobile-detailing-act-1.wav"
+      },
+      {
+        "id": "act-2",
+        "voice": "en-US-JennyNeural",
+        "text": "Detailers OS clusters your daily mobile van routes by neighborhood on a live Mapbox radar and locks in upfront customer deposits automatically.",
+        "audioSeconds": 8.28,
+        "sceneSeconds": 8.73,
+        "durationInFrames": 262,
+        "wavFile": "ecosystem-assets/vsl-mobile-detailing-act-2.wav"
+      },
+      {
+        "id": "act-3",
+        "voice": "en-US-JennyNeural",
+        "text": "Confirm vehicle size, water, and power access upfront, log high-gloss before-and-after ceramic coating photos, and send live arrival alerts.",
+        "audioSeconds": 8.976,
+        "sceneSeconds": 9.43,
+        "durationInFrames": 283,
+        "wavFile": "ecosystem-assets/vsl-mobile-detailing-act-3.wav"
+      },
+      {
+        "id": "act-4",
+        "voice": "en-US-JennyNeural",
+        "text": "Fit two more high-ticket details into every day and collect curbside payment, tips, and thirty-day maintenance rebookings on the spot. Launch Detailers OS today.",
+        "audioSeconds": 10.2,
+        "sceneSeconds": 10.65,
+        "durationInFrames": 320,
+        "wavFile": "ecosystem-assets/vsl-mobile-detailing-act-4.wav"
+      }
+    ]
+  },
+  "vsl-commercial-logistics": {
+    "id": "vsl-commercial-logistics",
+    "title": "FREIGHT OS // B2B FREIGHT & COMMERCIAL DISTRIBUTION",
+    "subtitle": "MULTI-STOP MANIFESTS • COMMERCIAL FLEET RADAR • DIGITAL BILL OF LADING",
+    "masterAudioFile": "ecosystem-assets/vsl-commercial-logistics-master.wav",
+    "totalSeconds": 38.4,
+    "totalFrames": 1152,
+    "scenes": [
+      {
+        "id": "act-1",
+        "voice": "en-US-ChristopherNeural",
+        "text": "Missing paper delivery notes, loading dock bottlenecks, and disputed pallet counts freeze B2B distributor payments for weeks.",
+        "audioSeconds": 7.872,
+        "sceneSeconds": 8.32,
+        "durationInFrames": 250,
+        "wavFile": "ecosystem-assets/vsl-commercial-logistics-act-1.wav"
+      },
+      {
+        "id": "act-2",
+        "voice": "en-US-ChristopherNeural",
+        "text": "Freight OS modernizes commercial distribution with multi-stop manifest optimization, live heavy-fleet radar tracking, and digital Bill of Lading workflows.",
+        "audioSeconds": 9.552,
+        "sceneSeconds": 10,
+        "durationInFrames": 300,
+        "wavFile": "ecosystem-assets/vsl-commercial-logistics-act-2.wav"
+      },
+      {
+        "id": "act-3",
+        "voice": "en-US-ChristopherNeural",
+        "text": "Dispatchers monitor every truck from port or warehouse to receiver, while drivers capture pallet counts, dock photos, and receiver signatures.",
+        "audioSeconds": 8.712,
+        "sceneSeconds": 9.16,
+        "durationInFrames": 275,
+        "wavFile": "ecosystem-assets/vsl-commercial-logistics-act-3.wav"
+      },
+      {
+        "id": "act-4",
+        "voice": "en-US-ChristopherNeural",
+        "text": "The moment the digital proof of delivery is signed, invoices trigger automatically with verified CariProof volume. Scale your distribution fleet with Freight OS today.",
+        "audioSeconds": 10.416,
+        "sceneSeconds": 10.87,
+        "durationInFrames": 327,
+        "wavFile": "ecosystem-assets/vsl-commercial-logistics-act-4.wav"
+      }
+    ]
+  }
+}
